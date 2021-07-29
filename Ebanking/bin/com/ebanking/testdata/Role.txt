@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+icicManger###E
+icicAManger###E
+icicGManger###E
